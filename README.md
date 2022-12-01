@@ -5,7 +5,9 @@ _Esse projeto consiste em um prototipo de uma rede social exclusiva para gamers,
 * Adicionar e remover jogadores do banco de dados
 * Ver os jogadores presentes no banco de dados
 * O jogador é capaz de postar algo em sua time line(fotos, textos ou videos)
+* É possivel curtir as postagens dos jogadores
 * Tambem existe um sistema de venda/compra de jogos na plataforma onde algum usuario pode colocar um jogo a venda e outro usuario pode adicionar esse jogo a sua lista de jogos
 * É possivel ver todos os jogos na biblioteca de cada jogador
 
+_Existem duas classes de jogador: Noob e Captain. Essas classes influenciam apenas na influencia/pontos que cada jogador tem na plataforma, influencia essa que é calculada atraves do tanto de curtidas que cada um possui._
 **Lembrando que o codigo é apenas um rascunho de um pseudosite**
